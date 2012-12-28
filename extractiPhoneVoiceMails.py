@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #
+# Copyright (c) 2012 Michael Shafae.
+# All rights reserved.
+#
 # Back up iPhone voicemails from src dir to target dir
 #
 # $Id: extractiPhoneVoiceMails.py 3968 2012-12-28 08:06:19Z mshafae $

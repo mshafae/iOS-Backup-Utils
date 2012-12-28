@@ -4,6 +4,9 @@ URL: <http://michael.shafae.com/>
 Date: 12/28/2012
 Release: 0.1
 
+Copyright (c) 2012 Michael Shafae.
+All rights reserved.
+
 # Summary
 
 This repository includes two programs which sort through a backup of an iOS host. The backups are assumed to be those made by iTunes.

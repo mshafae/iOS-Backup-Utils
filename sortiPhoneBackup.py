@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #
+# Copyright (c) 2012 Michael Shafae.
+# All rights reserved.
+#
 # Take the given iPhone backup and parcel it out into different directories
 #
 # $Id: sortiPhoneBackup.py 3969 2012-12-28 08:11:29Z mshafae $
