@@ -79,7 +79,7 @@ def outputVoicemailManifest(db, target):
   connection.close( )
 
 def copyAndRenameVoicemailDB(db, target):
-  targetFileName = targetDir + '/voicemail.db'
+  targetFileName = target + '/voicemail.db'
   print('copying {} to {}'.format(db, targetFileName))
   shutil.copy2(db, targetFileName)
   
